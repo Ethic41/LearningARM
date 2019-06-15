@@ -29,3 +29,21 @@ fooData:
 		.word	0x0000F000
 		.word	0x0000F001
 		.word	0x0000F002
+
+// pc-relative specials
+// normal pc-relative method
+
+.lpool:
+		.word	0x6010000
+		.word	far_var
+
+ldr		r0, .lpool				// load a value from the pool
+ldr		r0, .lpool+4			// load far_var's address
+ldr		r0, [r0]				// load far_var's content
+
+
+// short-hand gcc will manage the pool
+
+ldr		r0, =0x6010000			// load a value from pool
+ldr 	r0, =far_var			// load far_var's address into r0
+ldr 	r0, [r0]				// load far_var's contents

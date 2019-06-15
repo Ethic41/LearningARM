@@ -16,3 +16,11 @@ start:
 
 .lrest:
 		...
+
+// with conditionals; much cleaner
+
+start:
+		cmp		r0, r1		// perform test
+		movge 	r2, r0		// r0 is higher
+		movlt	r2, r1		// r1 is higher
+		...

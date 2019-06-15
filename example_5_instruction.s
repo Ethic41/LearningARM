@@ -1,7 +1,7 @@
 @ Author: Dahir Muhammad Dahir
 @ Date: 15th-June-2019 07:22 AM
 @ About: I will tell u later
-@ example_3_conditionals.s
+@ example_5_instructions.s
 
 
 // possible variation of data instructions
