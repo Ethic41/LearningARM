@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "example_4_for_loop.s",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "example_3_conditionals.s",
+			"settings":
+			{
+				"buffer_size": 118,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Set Syntax: Arm",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"Set Synt",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Set Syntax: Ar",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"Set Syntax: ar",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Codes/LearningARM"
+	],
+	"file_history":
+	[
+		"/D/Codes/LearningARM/README.md",
+		"/D/Codes/LearningARM/LearningARM.sublime-project",
+		"/C/Users/Dahir Muhammad Dahir/AppData/Roaming/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/D/Codes/LearningARM/example_1.s",
+		"/D/bugbounty/worked.js",
+		"/D/bugbounty/min.js",
+		"/D/bugbounty/rough.js",
+		"/D/Games/Metro Exodus/Metro.Exodus-CPY_www.Downloadha.com_/Metro.Exodus-CPY_www.Downloadha.com_/cpy-me.nfo",
+		"/H/Games/Games/Homefront/homefront.the.revolution.PLAZA.www.download.ir/homefront.the.revolution.PLAZA/plaza.nfo",
+		"/F/_/answers nucpc/U18CO2044/groovy_problem_alt.py",
+		"/C/Users/Dahir Muhammad Dahir/Documents/guys_dat_applied_4_programming.dmd",
+		"/D/Codes/usernames",
+		"/D/Codes/codechef/python/appy_and_contest.py",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/textract/textract/textract.py",
+		"/D/Codes/codes/python/Exploit_DB/exploit_db_script.py",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/textract/textract/BKFP_2012.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/lga1338q.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/lga0164b.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/lga1353g.txt",
+		"/D/Codes/projects/textract/src/main/sample/lga1357b.txt",
+		"/D/Codes/projects/textract/src/main/sample/lga1357a.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/lga1282r.txt",
+		"/D/Books/securityDocsClassified/RemodeCodeExecution/13158-exotic-vulnerabilities.txt",
+		"/D/Codes/codes/python/Threading/mtsleepC.py",
+		"/D/Downloads/Compressed/hashcat-5.1.0_2/hashcat-5.1.0/test.hash",
+		"/D/Codes/cracktest.py",
+		"/C/mysql_8_0_15/README",
+		"/D/Codes/SQL/reserve.php",
+		"/D/Codes/SQL/functions.php",
+		"/D/Codes/SQL/testfile.sql",
+		"/D/Codes/learningPython/BankAccountManager/bank.py",
+		"/D/Codes/test/package1/name.py",
+		"/D/ReverseCodeEngineering/IDA Pro/ida_nightfall-master/ida_nightfall-master/README.md",
+		"/D/Downloads/Compressed/_Getintopc.com_Rosetta_Stone_Hebrew_v5.0.37_Build_43113_Language_Packs_With_Audio_Companion/Rosetta_Stone_Hebrew_v5.0.37_Build_43113_Language_Packs_With_Audio_Companion/Install Notes.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/lga0202q.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/lga0164a.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/lga0167f.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/lga1331a.txt",
+		"/D/Codes/projects/textract/src/main/sample/sample2.txt",
+		"/D/Codes/projects/textract/src/main/sample/sample3.txt",
+		"/D/Codes/projects/textract/src/main/sample/sample1.txt",
+		"/D/Codes/projects/textract/src/main/sample/lga0219o.txt",
+		"/D/Codes/codes/python/Algorithms/Binary_search.py",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/textract/textract/converted/ABUZ_2012_2012 Apr  3 .csv",
+		"/D/Codes/codes/python/Threading/threading_test.py",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/lga0211d.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/base292j45.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/2017_s/kadu164v.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/textract/textract/BKFP_2013.txt",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/textract/textract/test.py",
+		"/D/Codes/projects/textract/src/build/settings/base.json",
+		"/D/Codes/projects/src/main/python/main.py",
+		"/D/Codes/myTools/textract/textract.py",
+		"/C/Users/Dahir Muhammad Dahir/Documents/GEAhmadWork/textract/textract/LICENSE",
+		"/D/Downloads/Compressed/ghidra_9.0.2_PUBLIC_20190403/ghidra_9.0.2/ghidraRun.bat",
+		"/D/Downloads/Compressed/ghidra_9.0.2_PUBLIC_20190403/ghidra_9.0.2/ghidraRun",
+		"/F/Dahir_Muhammad/Learn HackingPenetration Testing using Android From Scratch/Torrent downloaded from demonoid.pw.txt",
+		"/F/2017_s/lga0162o.txt",
+		"/D/Codes/learningPython/BankAccountManager/ATM.py",
+		"/D/test.c",
+		"/D/Codes/codes/python/Threading/mtsleepA.py",
+		"/D/Codes/codes/python/teaching/SaniTeaching/calc.py",
+		"/D/Books/securityDocsClassified/RemodeCodeExecution/13168-remote-exploiting-through-payload-rewriting.txt",
+		"/D/Downloads/Compressed/_Getintopc.com_Rosetta_Stone_Russian_With_Audio_Companion/Rosetta_Stone_Russian_With_Audio_Companion/Install Notes.txt",
+		"/D/Games/Homefront/homefront.the.revolution.PLAZA.www.download.ir/homefront.the.revolution.PLAZA/Readme.txt",
+		"/D/Codes/SaniAssignment/creditCardAuth/creditCardAuth.py",
+		"/D/Codes/SaniAssignment/passwordCracking/crack.py",
+		"/D/ReverseCodeEngineering/IDA Pro/ida-consonance-master/ida-consonance-master/README.md",
+		"/D/ReverseCodeEngineering/IDA Pro/IDAOneDark-master(1)/IDAOneDark-master/README.md",
+		"/C/Program Files/IDA 7.0/plugins/idaskins/themes/adwaita-dark/manifest.json",
+		"/D/ReverseCodeEngineering/IDA Pro/IDA.Pro.v7.0.170914.x64.With.Hex.Rays.Decompilers.Plus.Plugins_p30download.com/Password.txt",
+		"/D/Downloads/jambCBT/INSTALLATION GUIDE.txt",
+		"/D/Games/MedalOfHonorWarFighter/Medal.of.Honor.Warfighter.bitdownload.ir/Medal.of.Honor.Warfighter.bitdownload.ir/Medal of Honor Warfighter DVD1/Autorun/installerdata.xml",
+		"/D/Codes/codes/kotlin/Learning/HelloWorld.kt",
+		"/D/Games/Homefront/homefront.the.revolution.PLAZA.www.download.ir/homefront.the.revolution.PLAZA/plaza.nfo",
+		"/D/Codes/codes/kotlin/Learning/when.jar",
+		"/D/Codes/codes/python/Prog Challenge/LCD_Display.py",
+		"/D/Codes/codes/python/oop/oopRevisited.py",
+		"/D/Codes/codes/python/GUI_Tk/gui3.pyw",
+		"/D/Codes/codes/python/conv/conv.py",
+		"/D/ReverseCodeEngineering/IDA Pro/ida-consonance-master/ida-consonance-master/ida-consonance.clr",
+		"/D/Codes/codes/python/projects/reverse_string.py",
+		"/C/Program Files (x86)/Rosetta Stone/Rosetta Stone Language Training/InstruçSes.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Books/securityDocsClassified/RemodeCodeExecution/13073-php-endangers---remote-code-execution.txt",
+		"/D/Downloads/Compressed/JetBrains.WebStorm.v2018.3.4_p30download.com/Help.html",
+		"/D/InstalledSoftware/JetBrains/WebStorm 2018.3.4/bin/webstorm64.exe.vmoptions",
+		"/D/InstalledSoftware/JetBrains/WebStorm 2018.3.4/bin/webstorm.exe.vmoptions",
+		"/D/InstalledSoftware/JetBrains/WebStorm 2018.3.4/bin/webstorm64.exe",
+		"/D/Downloads/Compressed/JetBrains.PhpStorm.2018.1.6.bitdownload.ir/JetBrains.PhpStorm.2018.1.6.bitdownload.ir/Patches/JetBrains.2018.DVT/install.txt",
+		"/D/Downloads/Compressed/JetBrains.IntelliJ.IDEA.Ultimate.2018.1.5.bitdownload.ir/JetBrains.IntelliJ.IDEA.Ultimate.2018.1.5.bitdownload.ir/Patches/JetBrains.2018.DVT/install.txt",
+		"/D/Downloads/Compressed/haxm-windows_v7_4_1/silent_install_readme.txt",
+		"/D/Downloads/Compressed/haxm-windows_v7_4_1/Release Notes.txt",
+		"/D/Codes/SaniAssignment/U16CO1002/vignere/vignere.py",
+		"/D/Codes/SaniAssignment/U16CO1002/creditCardAuth/creditCardAuth.py",
+		"/D/Codes/SaniAssignment/U16CO1002/crack/crack.py",
+		"/D/Codes/perms.txt",
+		"/D/Codes/learningKotlin/README.md",
+		"/D/Downloads/Compressed/Infix.PDF.Editor.Pro.v7.3.1_p30download.com/Help.htm",
+		"/D/Downloads/Compressed/Infix.PDF.Editor.Pro.v7.3.1_p30download.com/!pd.nfo",
+		"/C/Users/Dahir Muhammad Dahir/Documents/fanon/actingforanimato00hook%2Factingforanimato00hook_daisy/README_encrypted.txt",
+		"/J/organo/frontdesk/reserve.php",
+		"/J/organo/frontdesk/cancelReservation.php",
+		"/J/organo/frontdesk/checkOutCustomer.php",
+		"/C/Users/Dahir Muhammad Dahir/AppData/Roaming/Sublime Text 3/Packages/User/SublimeHighlight.sublime-settings",
+		"/D/ReverseCodeEngineering/IDA Pro/IDA.Pro.v6.8.150423_p30download.com/Read Me.txt",
+		"/D/Codes/codes/Assembly/ShellCoding/helloWorld.s",
+		"/C/kms10.log",
+		"/D/Codes/test/main.py",
+		"/D/Codes/codes/Assembly/ShellCoding/a.out",
+		"/D/Downloads/Re-Loader v3.0 Beta 3  Windows 10 & Office 2016 Activator/Readme/Readme.txt",
+		"/D/ReverseCodeEngineering/Crack/cracked/crack2_sa/key",
+		"/D/ReverseCodeEngineering/Labs/persistence-1.0/readme.txt",
+		"/D/Games/Battlefield.V/cpy-b5.nfo",
+		"/D/Codes/codes/Assembly/ShellCoding/helloWorld.asm",
+		"/D/Downloads/Compressed/idapython/src-master/README.md",
+		"/D/ReverseCodeEngineering/IDA Pro/IDASkins-master/IDASkins-master/README.md",
+		"/D/ReverseCodeEngineering/IDA Pro/IDASkins-2.0.4/README.md",
+		"/C/Python37/Lib/site-packages/PyQt5Designer-5.10.1.dist-info/INSTALLER",
+		"/C/Program Files/IDA 7.0/plugins/idaskins/themes/IDAOneDark/manifest.xml",
+		"/C/Users/Dahir Muhammad Dahir/Desktop/manifest.json",
+		"/C/Program Files/IDA 7.0/plugins/idaskins/themes/IDAOneDark/manifest.json",
+		"/D/ReverseCodeEngineering/IDA Pro/IDA.Pro.v7.0.170914.x64.With.Hex.Rays.Decompilers.Plus.Plugins_p30download.com/!pd.nfo",
+		"/C/Program Files (x86)/IDA 6.8/cfg/python.cfg",
+		"/C/Program Files (x86)/IDA 6.8/python/init.py",
+		"/D/ReverseCodeEngineering/IDA Pro/IDAOneDark-master(1)/IDAOneDark-master/manifest.xml",
+		"/D/Downloads/Compressed/idapython/src-master/docs/notes.txt",
+		"/C/Program Files (x86)/IDA 6.8/plugins/idaskins/thememanifest.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "example_4_for_loop.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/R/R.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "example_3_conditionals.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ARM Assembly/Syntaxes/ARM Assembly.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learningARM.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
