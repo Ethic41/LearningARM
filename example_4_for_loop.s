@@ -9,7 +9,7 @@ mov		a, #0				// declaring 'a' variable
 
 // Start of for loop
 for_start:
-		add		r0, r0, #2	// r0 += 2
+		add		r0, r0, #2	// r0 += 2 ; this is code in the loop block
 		add		a, #1		// increment a
 		cmp		a, #16		// test a == 16
 		bne		for_start	// branch to 'for_start' if test fails

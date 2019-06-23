@@ -7,7 +7,7 @@
 start:
 add 	r0, r0, #2  	// Add immediate: r0 += 2
 add 	r0, r0, r1  	// Add registers: r0 += r1
-add 	r0, r1, r1  	// Add registers: r0 = r1 + r2
+add 	r0, r1, r2  	// Add registers: r0 = r1 + r2
 
 ldr 	r0, [r2]		// Load int from memory: r0 = r2[0]
 ldr 	r0, [r2, #4]	// Load int from memory: r0 = r2[1]
